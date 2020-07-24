@@ -1,28 +1,57 @@
-# Hello there 👋
+<h2>Hello, I'm Mohammed Ismail! <img src="./smario.webp" width="50"></h2>
+<img align='right' src="./user.webp" width="230">
+<p><em>Software Engineer at <a href="http://biznessforce.com/">Biznessforce Software Solutions</a><img src="./working_cat.webp" width="30"> 
+</em></p>
 
-![Developer](https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif)
+![Twitter Follow](https://img.shields.io/twitter/follow/ikismail7?label=Follow)
+[![Linkedin: ikismail7](https://img.shields.io/badge/-Mohammed%20Ismail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikismail7/)](https://www.linkedin.com/in/ikismail7/)
+![GitHub followers](https://img.shields.io/github/followers/ikismail?label=Follow&style=social)
+![](https://visitor-badge.laobi.icu/badge?page_id=ikismail)
 
-- 👨‍💻  2+ year of experience in fullstack Web development.
-- 🔭 Working on Javascript, Angular, React, React-Native, Firebase, etc.
-- 🔥 Professional attitude, self-starter, result-oriented team player. 🦾
+### <img src="./catty.webp" width="50"> A little more about me...
 
+```javascript
+const ikismail = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Typescript", "Python (Basic)"],
+  askMeAbout: ["web dev", "tech", "app dev"],
+  technologies: {
+    mobileApp: ["React-Native", "Ionic"],
+    frontEnd: {
+      js: [
+        "Angular",
+        "NGRX",
+        "React",
+        "Redux",
+        "Redux-Thunk",
+        "Nextjs",
+        "Vue (Basic)",
+      ],
+      css: ["angular-material", "bootstrap"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+    },
+    databases: ["mongo"],
+    misc: ["Firebase", "IOT", "RaspberryPi"],
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+};
+```
 
-Find me around the web 🌍:
-  - Learning in public on 🧑‍💼 [ikismail](https://ikismail.com)
-  - Sharing Updates on - 💼 [LinkedIn](www.linkedin.com/in/ikismail7)
+<img src="./connections.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!--
-**ikismail/ikismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Code Time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🐲 Your weekly language rankings
 
--->
+               javascript : ▮▮▮▮▮▮ 26.7%
+                     html : ▮▮▮▮▮ 20.0%
+                plaintext : ▮▮▮▮▮ 20.0%
+               typescript : ▮▮▮▮▮ 20.0%
+                     scss : ▮▮ 6.7%
+                     json : ▮▮ 6.7%
+
+End Code Time -->
