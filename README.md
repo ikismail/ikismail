@@ -1,6 +1,6 @@
-<h2>Hello, I'm Mohammed Ismail! <img src="./smario.webp" width="50"></h2>
-<img align='right' src="./user.webp" width="230">
-<p><em>Software Engineer at <a href="http://biznessforce.com/">Biznessforce Software Solutions</a><img src="./working_cat.webp" width="30"> 
+<h2>Hello, I'm Mohammed Ismail! <img src="./smario.gif" width="50"></h2>
+<img align='right' src="./user.gif" width="230">
+<p><em>Software Engineer at <a href="http://biznessforce.com/">Biznessforce Software Solutions</a><img src="./working_cat.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ikismail7?label=Follow)
@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ikismail?label=Follow&style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ikismail)
 
-### <img src="./catty.webp" width="50"> A little more about me...
+### <img src="./catty.gif" width="50"> A little more about me...
 
 ```javascript
 const ikismail = {
@@ -39,7 +39,7 @@ const ikismail = {
 };
 ```
 
-<img src="./connections.webp" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="./connections.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
