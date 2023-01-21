@@ -60,3 +60,5 @@ const ikismail = {
                      json : ▮▮ 6.7%
 
 End Code Time -->
+
+Support the Development: If you find these project useful and want to support its continued development, please consider making a small donation through [Paypal](https://paypal.me/ikismail7). Your support will help to keep the project updated and maintained.
